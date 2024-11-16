@@ -22,12 +22,6 @@ void main() {
 
   /// Date 14/11/2024
 
-  ///====================Numbers=========================
-  ///======Parsing====
-// int num1 = 10;
-// double num2 = 10.91;
-// print (num.parse('10'));
-// print(num.parse('10.91'));
 
   ///=================Number properties=================
   ///hashCode
