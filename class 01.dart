@@ -8,9 +8,7 @@ void main() {
   var gender = 'Male';
   print("Our new student name is: ${name}.${name} is ${age} years old.${age}");
 
-
-// print(5*6);
-// print(num>age);
+  ///Bitwise OR
 //   var num1=5;//101
 //   var num2 =3;//011
 //   var num3 =  num1 | num2;
@@ -18,7 +16,7 @@ void main() {
 //   num4 += 21;
 //   print(num3);
 //   print(num4);
-//
+
 
   ///For Loop and nested loop
 //   for(var i=0; i<=10; i++){
