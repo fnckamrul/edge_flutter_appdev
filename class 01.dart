@@ -13,35 +13,8 @@ void main() {
 
 
 
-// var num = 6;
-// if(num>5){
-//   print("${num} Number is grater than 5");
-// }
-//
-// else{
-//   print("${num} is less than 5");
-// }
-//
-//
 
-  ///switch case statement
-//   var day = 3;
-//
-//   switch(day){
-//     case 0:
-//       print("Sunday");
-//     case 1:
-//       print("monday");
-//     case 2:
-//       print("Tue");
-//     case 3:
-//       print("Wed");
-//     case 4:
-//       print("Thu");
-//     case 5:
-//       print("Fri");
-//
-//   }
+
 
 
 
