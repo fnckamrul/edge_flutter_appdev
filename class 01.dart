@@ -11,23 +11,7 @@ void main() {
 
 
 
-  ///While Loop
-// var i = 1;
-// while(i<=5){
-//   print ("the number is ${i}");
-//   i++;
-// }
-// print("Loop End Here");
-//
 
-  ///Do While loop
-//   var n = 6;
-//   do{
-//     print("The number is : ${n}");
-//     n++;
-//   }while(n<=5);
-//   print("Loop end here");
-//
 
 // var num = 6;
 // if(num>5){
