@@ -28,20 +28,6 @@ void main() {
 
 
 
-  ///=====================List Using Dart==================///
-  // var cars = ['Model1', 'Model2', 'Model3'];
-  // // print("This is Model Number : ${cars[2]}");
-  // print()
-
-
-
-
-  // var fruits = new List(3);
-  // fruits[0] = "Apple";
-  // fruits[1] = "Banana";
-  // fruits[2] = "Apple";
-
-
   ///=============Map===============================
   // var studentInfo = {
   //     'name': 'John',
