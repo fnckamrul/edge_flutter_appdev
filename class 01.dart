@@ -8,12 +8,4 @@ void main() {
   var gender = 'Male';
   print("Our new student name is: ${name}.${name} is ${age} years old.${age}");
 
-///=========Map======
-  var studentInfo = {
-      'name': 'John',
-      'id': 0125654,
-      'age': 20,
-      'Gender': 'Male'
-  };
-  print(studentInfo);
 }
